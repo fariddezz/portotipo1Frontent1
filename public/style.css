@@ -1,0 +1,60 @@
+img.on-right{
+    float: right;
+    padding-left: 5px; 
+}
+img.logo{
+    float: left;
+    width: 50px;
+    height: 50px;
+}
+#whatsapp{
+
+    width: 50px;
+    height: 50px;
+}
+#messenger{
+    width: 50px;
+    height: 50px;
+} 
+body{
+    background-image: linear-gradient(#F4E136, black );
+} 
+p{
+    font-size: smaller;
+    color: white;
+}
+section{
+    float: left;
+    padding-left: 15px; 
+}
+section.secs1{
+    width: 300px;
+  
+}
+section.secs2{
+    width: 300px;
+    
+}
+section.secs3{
+    width: 300px;
+  
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h2{
+    text-align: center;
+    color: white;
+}
+h3{
+    text-transform: uppercase;
+    text-align: center;
+}
+footer{
+    float:inline-end;
+    color: white;
+}
+ul {
+    list-style-type: none;
+}
